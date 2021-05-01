@@ -13,4 +13,8 @@ I'm Goutam.
  <img src="https://github-readme-stats.vercel.app/api?username=goutam-das&&show_icons=true&title_color=ffffff&text_color=ffffff&bg_color=191919">
 </p>
 
+<p align='center'>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Supratim-Barai&text_color=ffffff&theme=synthwave&icon_color=E5566D" alt="Supratim-Barai" />
+</p>
+
 <h1 align='center'><i>Stay awesome!</i></h1>
