@@ -14,7 +14,7 @@ I'm Goutam.
 </p>
 
 <p align='center'>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Supratim-Barai&text_color=ffffff&theme=synthwave&icon_color=E5566D" alt="Supratim-Barai" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=goutam-das&text_color=ffffff&theme=synthwave&icon_color=E5566D" alt="alt" />
 </p>
 
 <h1 align='center'><i>Stay awesome!</i></h1>
