@@ -5,7 +5,7 @@
 I'm Goutam.
 </p>
 <p align='center'>
-  <img src="https://github-readme-stats.vercel.app/api?username=goutam-das&&show_icons=true&text_color=ffffff&theme=synthwave&icon_color=E5566D ">
+  <img src="https://github-readme-stats.vercel.app/api?username=goutam-das&&show_icons=true&text_color=ffffff&theme=synthwave&icon_color=E5566D">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=goutam-das&theme=synthwave&text_color=ffffff" />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=goutam-das&text_color=ffffff&theme=synthwave&icon_color=E5566D" alt="alt" />
 </p>
