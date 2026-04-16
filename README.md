@@ -1,19 +1,36 @@
-<h1 align='center'> Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+# Hi there, I'm Goutam Das 👋
 
 
-<p align='center'>
-I'm Goutam.
-</p>
-<p align='center'>
-  <img src="https://github-readme-stats.vercel.app/api?username=goutam-das&&show_icons=true&text_color=ffffff&theme=synthwave&icon_color=E5566D">
-</p>
+### Associate Tech Lead • Full-Stack JavaScript Developer • React Native Specialist
 
-<p align='center'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=goutam-das&theme=synthwave&text_color=ffffff" />
-</p>
+**7+ years building scalable mobile, web, and backend products**
 
-<p align='center'>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=goutam-das&text_color=ffffff&theme=synthwave&icon_color=E5566D" alt="alt" />
-</p>
+Kolkata, India • React Native • React.js • Next.js • NestJS • GraphQL •
+DevSecOps
 
-<h1 align='center'><i>Stay awesome!</i></h1>
+------------------------------------------------------------------------
+
+## 🚀 About Me
+
+I'm a results-driven **Associate Tech Lead** with **7+ years of
+experience** delivering scalable mobile, web, and backend solutions
+across fintech and product environments.
+
+## 🛠️ Tech Stack
+
+`JavaScript` `TypeScript` `React` `React Native` `Next.js` `NestJS`
+`GraphQL` `AWS` `Azure DevOps`
+
+## 💼 Professional Highlights
+
+-   Reduced mobile app **crash rate by 35%**
+-   Improved startup time by **40%**
+-   Reduced release cycle time by **50%**
+-   Zero critical vulnerabilities in releases
+-   Mentored engineers and led cross-functional teams
+
+## 📫 Connect With Me
+
+-   LinkedIn: linkedin.com/in/goutamdas1993
+-   GitHub: github.com/goutam-das
+-   Email: goutamdas676@gmail.com
